@@ -1,0 +1,7 @@
+C:\Users\reese\desktop\Calendar.Solution\Calendar\bin\Debug\netcoreapp1.1\Calendar.deps.json
+C:\Users\reese\desktop\Calendar.Solution\Calendar\bin\Debug\netcoreapp1.1\Calendar.dll
+C:\Users\reese\desktop\Calendar.Solution\Calendar\bin\Debug\netcoreapp1.1\Calendar.pdb
+C:\Users\reese\desktop\Calendar.Solution\Calendar\obj\Debug\netcoreapp1.1\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\reese\desktop\Calendar.Solution\Calendar\obj\Debug\netcoreapp1.1\Calendar.AssemblyInfo.cs
+C:\Users\reese\desktop\Calendar.Solution\Calendar\obj\Debug\netcoreapp1.1\Calendar.dll
+C:\Users\reese\desktop\Calendar.Solution\Calendar\obj\Debug\netcoreapp1.1\Calendar.pdb
